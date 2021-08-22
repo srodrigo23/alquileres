@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alquileres-323623",
+  "private_key_id": "715ea592ffa75d8f27a3d0402b9864f7e604a1fb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0MRjhBMNrFTyc\n8LwZH+mEagntZSROXgd0VvNYXPV87VPpfW2E0sFRExzZupfsykmkNc3BZD5ee2pb\nwcV6eGQ8SM0SF1C3zJyCtVOcncmoVcuK31jtjyMfpj4vWrEE6Zek5ciVQ74lUwaQ\nQIKvX0IZJH094utlxqtKAIJ0UqZGGh1+2JxBgc81PuGG4wKQRqRY9erisbIMSIPI\nHQAtg+mLdSbikJFYzAETw46l4YIbqkhzKVjBtZrwg9OMFZcVu5EnjwVns8B+ThAY\nTzSf37QkaSBv8IkNHVEdJWPAzs0LfAv3EDdsFDwxnBYa60vP3/GDjR61q6eZiJ53\nQrYcFuDbAgMBAAECggEAAuQcxZN5fTDYiZ4VLoQED6NR6HSsefNpRDUW726CY9A8\n/eyMwspM3rujRV0IjfyK5O8WD4nHtGVfhfxcakQfO5Zhb+5e1awbQL+fCU7Aywoh\nW2eM+jbHNf1JVyIp3+3NiJBFQRvWo6uq2cqnLiAlo9ihh8opw7bFzcinTy16THqc\n4SBv9jx80SGxp7D+lkyml1bF4WI4DMh1PG/Cv+rrz4flUMsDd+SzJYJtWbdyaKBp\nxNsY+wv/v0fP+y2USNWTpPkfUVm2DMLsGOmqcrqNO1/PWY8yjSmwMTti0tj5KbPE\n2bO6PA5c29nROd8pOOYuI2GYqOESQRY1OoR47kh5oQKBgQDl1fBuUky7vfNVXoYu\nafSMaXUyFo06SbeBt5m1G/6qu9EM52fqXlqxnh3a1sRYPWvgtjOEYaPJxy8UNz6k\nKSlK8QDc+iNk5nzd9PjemV3ZjBZHGkCYkDBqu61aYo28PCwn+Fh+K9T/YpWQ8iZ8\nG3CJbxx74I/sB39BydWZ8rv3OwKBgQDItGTul5LLvMz/1HQiG4zqiE7hatr1YsMo\nEfly1Lw2TTeOEP1+85WyvbGqhcJxjLo7Hn/KW7E2fsWHNz6NDnJDpQWgdhP5HpR8\njkZNKiym4J8eoaLD9+/bUplBbeKZl7KZ/VwTYm4Avk4zboxOKyWBwAX9Z/sytNxd\n1wJdWNpi4QKBgQDN5a3htzrkydNvPCHq/KLHE0aZW5ijihyqSaealvy7SUyLSddP\nH74R9rt6LAJzpnq5MaDPTIVlo1oqux8UA4fpiiQi0rfYkZ91XBuDl1N7K8NdaUhL\nJIkrZPx0x2uAIUvRdusYBP5o15Fz62rMrexQQsj6tP9aDJFVh5Iiu1DmtwKBgQCe\njlTGYJwptCfHW9G7OESk67ZVQpNkE/fU6g5E92cRBwOCik2ZQ1nZ8R4wdqdcCS7+\nkWOnO7TONmxaG/ygdu8yHWZKk73Hqq7nj4ZeY5kO5JkQG+V4J6EnhSNpmyPO7xa7\nrHpXHgWFNNKWsxjIkDF7RXX18XVzY4pL4BYQJKeyQQKBgEYR/TDakQtTDIkPRxNw\nuIY/1iMmtAdOUf0fUTBP5eOIxqqI3EJuFwUQlOBgoBRPIPoTYkuP4EEN2/mkycCe\njzD2XJpNpCTBtjRvTtNpNlZId44hG1+WxhFsREe8uqB8BVEWwqCWaY7JnyDu8MS5\nOtVZ18NTtTsDwHI7jIhQxTq5\n-----END PRIVATE KEY-----\n",
+  "client_email": "inquilinos@alquileres-323623.iam.gserviceaccount.com",
+  "client_id": "102533513823035847021",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/inquilinos%40alquileres-323623.iam.gserviceaccount.com"
+}
